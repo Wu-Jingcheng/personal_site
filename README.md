@@ -1,12 +1,16 @@
 # Orsome Personal Website Template
 
+## It looks like this.
+
+Check the [page](https://wu-jingcheng.github.io/personal_site/).
+
 ## Features
 
 Several Ezs:
 
 * Easy to deploy. Orsome site even works perfectly on GitHub as a static-site.
 * Easy to use. Even those who don't know anything about front-end development tool and the like can easily handle it.
-* Easy to release new posts. All you need to know is Markdown. There is no need to fiddle with HTML and so forth.
+* ~~Easy to release new posts. All you need to know is Markdown. There is no need to fiddle with HTML and so forth.~~
 * Easy to custimize the theme. Like color and so forth.
 
 ## Get started
@@ -15,7 +19,7 @@ Several Ezs:
 2. Make this repo a page.
    1. Go to the repo `Settings`.
    2. Go to the `Pages` under the `Code and automation`.
-   3. Make it a page.
+   3. Make it a page at `source`. Normally you would select `main` as your branch.
 3. Tune the `configs.json` as you need.
 
 ## Configuration
